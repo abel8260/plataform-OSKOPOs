@@ -3,5 +3,5 @@ Os kopos é uma plataforma exclusiva para eventos de origem de saúde mental e l
 
 ## Roadmap:
 
-- abel8260.github.io/plataform-oskopos/
+- abel8260.github.io/plataform-oskopos/osokoporefutadopelodrivegg/index.html
 - abel8260.github.io/plataform-oskopos/
