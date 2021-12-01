@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2400mm"
+   height="100mm"
+   viewBox="0 0 2400 100"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="title.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="485.58886"
+       y="-212.87992"
+       width="1069.9172"
+       height="710.60834"
+       id="rect841" />
+    <rect
+       x="674.42516"
+       y="13.348208"
+       width="522.08101"
+       height="78.327916"
+       id="rect835" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="3792.3133"
+     inkscape:cy="494.94725"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1362"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text833"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect835);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         style="visibility:hidden"
+         x="674.42578"
+         y="162.02187"><tspan
+           dx="0 31.080273 26.466602 31.080275 27.607615 31.080271 32.246101 31.080271 16.147852 19.769327 31.253916 17.884165 32.19648 19.918161 31.129892 32.246101 31.080271 16.147837 32.246101 31.253916 14.113871 31.08024 16.147867 32.246132 20.885538 14.113871 30.063272 31.253885 16.147867 32.246071 32.246132 16.147806"
+           style="font-size:50.8px;line-height:2.25;letter-spacing:0.00264583px">osokopo refutado pelo drive gg  </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text839"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect841);fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1;"
+       transform="matrix(6.014835,0,0,3.0274377,-2910.6173,654.11369)"><tspan
+         x="485.58984"
+         y="-190.40781"><tspan
+           style="font-size:25.4px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1">osokopo refutado pelo drive gg</tspan><tspan
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"> </tspan></tspan></text>
+  </g>
+</svg>
